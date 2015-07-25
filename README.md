@@ -1,2 +1,3 @@
 # hello-world
-A newbie learning github
+
+Hey people, ssup?
